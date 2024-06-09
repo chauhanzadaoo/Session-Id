@@ -8,7 +8,7 @@
 <br/>QR- WEB - PAIR CODE FOR BOT WITH SHEHZADA MD 💀🚩
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
-   <a href="https://github.com/Itxxwasi">
+   <a href="https://github.com/chauhanzadaoo">
     <img src="https://telegra.ph/file/2237146b2108c4e8ce61d.jpg" width="500">
      
 </a>
