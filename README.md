@@ -5,7 +5,7 @@
 
 <strong>NB:<strong/> This repo also generates session ID for all bots using whiskeysockets/baileys
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-<br/>QR- WEB - PAIR CODE FOR BOT WITH WHISKEYSOCKETS/BAILEYS
+<br/>QR- WEB - PAIR CODE FOR BOT WITH SHEHZADA MD 💀🚩
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
    <a href="https://github.com/Itxxwasi">
