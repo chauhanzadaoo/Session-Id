@@ -12,7 +12,7 @@
     <img src="https://telegra.ph/file/2237146b2108c4e8ce61d.jpg" width="500">
      
 </a>
- <p align="center"><img src="https://profile-counter.glitch.me/{Itxxwasi}/count.svg" alt="xcelsama:: Visitor's Count" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{chauhanzadoo}/count.svg" alt="xcelsama:: Visitor's Count" /></p>
 
 
 
@@ -29,5 +29,5 @@ Now Deploy
 [`HERE'S AN EXAMPLE OUTPUT`](https://wasi-session-test-2d5de70f8522.herokuapp.com)
 # `Owner`
 
- <a href="https://github.com/chauhanzadaoo"><img src="https://github.com/Itxxwasi.png" width="250" height="250" alt="Itxx Me Shehzada"/></a>
+ <a href="https://github.com/chauhanzadaoo"><img src="https://github.com/chauhanzadaoo.png" width="250" height="250" alt="Itxx Me Shehzada"/></a>
 
